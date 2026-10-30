@@ -1,0 +1,74 @@
+{
+  "slug": "ciberdelincuencia",
+  "name": "CiberdelincuencIA",
+  "tagline": "Práctica adaptativa, simulacro de examen y caso práctico de Cibercrimen y Ciberseguridad (UMH 8059)",
+  "eyebrow": "Cibercrimen y Ciberseguridad · 8059 · Grado en Seguridad Pública y Privada · Universidad Miguel Hernández de Elche",
+  "h1": "Aprende cibercrimen *practicando, no releyendo*",
+  "lede": "Preguntas por unidad que se adaptan a lo que ya dominas, un simulacro con la fórmula exacta del examen y un laboratorio para preparar el caso práctico y su defensa oral. La práctica funciona sin clave de IA y sin conexión.",
+  "logo_icon": "shield",
+  "ia": true,
+  "lang": "es",
+  "langs": [
+    "es",
+    "en",
+    "pt"
+  ],
+  "modules": [
+    "00-utils",
+    "10-persist",
+    "20-providers",
+    "30-verify",
+    "60-nav",
+    "65-i18n",
+    "70-report"
+  ],
+  "app_js": [
+    "curriculum.js",
+    "nucleo.js",
+    "ejemplos.js",
+    "app.js"
+  ],
+  "i18n": {
+    "en": {
+      "title": "CiberdelincuencIA · Adaptive practice, mock exam and case study in Cybercrime and Cybersecurity (UMH 8059)",
+      "eyebrow": "Cybercrime and Cybersecurity · 8059 · Degree in Public and Private Security · Miguel Hernández University of Elche",
+      "h1": "Learn cybercrime *by practising, not rereading*",
+      "lede": "Questions by unit that adapt to what you already master, a mock exam with the exact exam formula and a lab to prepare the case study and its oral defence. Practice works without an AI key and offline."
+    },
+    "pt": {
+      "title": "CiberdelincuencIA · Prática adaptativa, simulado de exame e caso prático de Cibercrime e Cibersegurança (UMH 8059)",
+      "eyebrow": "Cibercrime e Cibersegurança · 8059 · Licenciatura em Segurança Pública e Privada · Universidade Miguel Hernández de Elche",
+      "h1": "Aprenda cibercrime *praticando, não relendo*",
+      "lede": "Perguntas por unidade que se adaptam ao que já domina, um simulado com a fórmula exata do exame e um laboratório para preparar o caso prático e a sua defesa oral. A prática funciona sem chave de IA e sem ligação."
+    }
+  },
+  "authors": [
+    {
+      "name": "Fernando Borrás Rocher",
+      "given": "Fernando",
+      "family": "Borrás Rocher",
+      "orcid": "0000-0002-5519-4573",
+      "affiliation": "Universidad Miguel Hernández de Elche"
+    },
+    {
+      "name": "Fernando Miró Llinares",
+      "given": "Fernando",
+      "family": "Miró Llinares",
+      "orcid": "0000-0001-6379-5857",
+      "affiliation": "Universidad Miguel Hernández de Elche"
+    }
+  ],
+  "idea_credit": "A partir de la Guía Docente 2026-2027 de la asignatura 8059 Cibercrimen y Ciberseguridad (Grado en Seguridad Pública y Privada, UMH), cuyo responsable es el profesor Fernando Miró Llinares.",
+  "catalog": {
+    "cat": "doc",
+    "icon": "ti-shield-lock",
+    "sub_es": "Práctica adaptativa, simulacro y caso práctico de Cibercrimen y Ciberseguridad (UMH 8059)",
+    "desc_es": "Sistema de aprendizaje de la asignatura construido a partir de su Guía Docente: 36 preguntas por unidad con práctica de recuperación espaciada y ruta adaptativa explicable, simulacro con la fórmula de corrección exacta del examen y entrenamiento de la decisión de responder o dejar en blanco. Laboratorio del caso práctico con feedback de la IA según los criterios literales de la guía (citas del propio texto verificadas por código, sin notas) y preguntas de defensa oral. Panel del profesorado con analítica de ítems y exportación a Moodle XML y GIFT. Funciona sin clave y sin conexión salvo la IA; en español, inglés y portugués.",
+    "sub_en": "Adaptive practice, mock exam and case study for Cybercrime and Cybersecurity (UMH 8059)",
+    "desc_en": "Course learning system built from its syllabus: 36 questions by unit with spaced retrieval practice and an explainable adaptive route, a mock exam with the exact exam scoring formula and training on when to answer or leave blank. Case-study lab with AI feedback against the syllabus' literal criteria (quotes from the student's own text verified by code, no grades) and oral-defence questions. Teacher panel with item analytics and export to Moodle XML and GIFT. Works without a key and offline except for the AI; in Spanish, English and Portuguese.",
+    "tit_es": "Grado en Seguridad Pública y Privada · Criminología",
+    "comp_es": "Cibercrimen · Ciberseguridad · Criminología · Práctica de recuperación · Evaluación formativa",
+    "tit_en": "Degree in Public and Private Security · Criminology",
+    "comp_en": "Cybercrime · Cybersecurity · Criminology · Retrieval practice · Formative assessment"
+  }
+}
