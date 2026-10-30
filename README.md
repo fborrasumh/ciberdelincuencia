@@ -4,6 +4,8 @@ Práctica adaptativa, simulacro de examen y caso práctico de Cibercrimen y Cibe
 
 **Usar la app:** https://fborrasumh.github.io/ciberdelincuencia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23812669.svg)](https://doi.org/10.5281/zenodo.23812669)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 Sistema de aprendizaje de la asignatura **8059 Cibercrimen y Ciberseguridad** (3.º del Grado en Seguridad Pública y Privada, Universidad Miguel Hernández de Elche, 4,5 ECTS), construido a partir de su Guía Docente 2026-2027 (validada el 22/06/2026).
@@ -90,7 +92,7 @@ El resto del profesorado de la asignatura puede incorporarse como coautor en una
 
 ## Cómo citar
 
-Borrás Rocher, F. y Miró Llinares, F. (2026). *CiberdelincuencIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Miró Llinares, F. (2026). *CiberdelincuencIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23812669](https://doi.org/10.5281/zenodo.23812669)
 
 ## Licencia
 
